@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tobedoneapp-staging-80555-authRole",
+      "UnauthRoleArn": "arn:aws:iam::671225339677:role/amplify-tobedoneapp-staging-80555-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::671225339677:role/amplify-tobedoneapp-staging-80555-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-tobedoneapp-staging-80555-deployment",
+      "UnauthRoleName": "amplify-tobedoneapp-staging-80555-unauthRole",
+      "StackName": "amplify-tobedoneapp-staging-80555",
+      "StackId": "arn:aws:cloudformation:eu-west-1:671225339677:stack/amplify-tobedoneapp-staging-80555/8d1fbc60-3b16-11ed-8d65-0ab579104fd5",
+      "AmplifyAppId": "d7b12xzn9owkb"
+    },
+    "categories": {
+      "auth": {
+        "ToBeDoneApp": {}
+      }
+    }
+  }
+}
